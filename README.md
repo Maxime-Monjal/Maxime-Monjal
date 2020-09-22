@@ -1,4 +1,4 @@
-#[ <text-align : center;>  Hi 😎, I'm Maxime 👋] 
+### Hi 😎, I'm Maxime 👋
 
 
  🌍 I'm from Nantes (FRANCE)
@@ -7,5 +7,4 @@
  ⚡ Fun fact: i pratice Krav Maga 👊 
  
  
- [codepen
-
+ 
