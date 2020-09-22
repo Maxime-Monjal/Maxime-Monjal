@@ -1,4 +1,4 @@
-# Hi 😎, I'm Maxime 👋
+#[ <text-align : center;>  Hi 😎, I'm Maxime 👋] 
 
 
  🌍 I'm from Nantes (FRANCE)
@@ -6,4 +6,6 @@
  📫 How to reach me: maxime.monjal@gmail.com
  ⚡ Fun fact: i pratice Krav Maga 👊 
  
+ 
+ [codepen
 
