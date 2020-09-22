@@ -7,7 +7,6 @@
 - 📫 How to reach me: maxime.monjal@gmail.com
 - ⚡ Fun fact: i pratice Krav Maga 👊 
  
-[<img align="left" alt="codepenimg" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30px" height="30px" />]
+[<img align="left" alt="codepenimg" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30px" height="30px" />][codepen]
  
 [codepen]: https://codepen.io/Monjal
-[wild]: https://www.wildcodeschool.com/fr-FR/campus/nantes
