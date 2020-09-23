@@ -15,6 +15,6 @@
 [codepen]: https://codepen.io/Monjal
 [linkedin]: https://www.linkedin.com/in/maxime-monjal-79a777199/
 [twitter]: https://twitter.com/Maximecode
+<addr>
 
-<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxime-Monjal)](https://github.com/anuraghazra/github-readme-stats)
