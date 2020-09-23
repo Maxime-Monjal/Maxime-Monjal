@@ -1,5 +1,5 @@
 ### Hi, I'm Maxime Monjal 👋,
-#### I am Junior front-end Developper
+#### I am a Junior front-end Developper
 ![I am Developper Junior front-end](https://media-exp1.licdn.com/dms/image/C5616AQEbU_ZrBhQY7g/profile-displaybackgroundimage-shrink_350_1400/0?e=1606348800&v=beta&t=Fgj7cdMBdtFAu1Ojbqn0gtxPgvw-s183yhhzaxIf8Ag)
 
 I'm a Junior Developer from the Wild Code School.
