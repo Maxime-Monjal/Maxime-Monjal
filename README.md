@@ -1,7 +1,7 @@
 ## Hi 😎, I'm Maxime 👋
 <addr>
 
- **I'm a Developer Junior from the Wild Code School **
+ **I'm a Developer Junior from the Wild Code School**
 
 - 🌍 I'm from Nantes (FRANCE)
 - 💬 Let's talk about: Javascript, React, NodeJs
