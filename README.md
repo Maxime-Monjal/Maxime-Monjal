@@ -1,4 +1,4 @@
-## -> Hi 😎, I'm Maxime 👋 <-
+##  Hi 😎, I'm Maxime 👋 
 <addr>
 
  **I'm a Developer Junior from the Wild Code School**
