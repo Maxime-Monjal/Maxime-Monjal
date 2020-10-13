@@ -4,12 +4,15 @@
 
 I'm a Junior Developer from the @WildCodeSchool.
 
-Skills: JS / HTML / CSS
+Skills: HTML / CSS / JAVASCRIPT / REACT
 
 - 🌍  I'm from: **Nantes (FRANCE)**
 - 🌱 I’m currently learning: **Javascript, React, NodeJs** 
 - 📫 How to reach me: maxime.monjal@gmail.com 
 - ⚡ Fun fact: **I pratice Krav Maga** 
+
+
+I am looking for an internship from February 15 to June 11. Near Nantes.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxime-monjal-79a777199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Maximecode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Monjal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Maxime-Monjal)  
