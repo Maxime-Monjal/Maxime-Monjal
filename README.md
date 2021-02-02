@@ -1,5 +1,5 @@
-## Hi  🙋🏻‍♂️, I'm Maxime 
-#### I am a Junior front-end Developper from the Wild Code School
+# Hi  🙋🏻‍♂️, I'm Maxime 
+## I am a Junior front-end Developper from the Wild Code School
 
 Skills: HTML / CSS / JAVASCRIPT / REACT / NODE /MYSQL 
 
