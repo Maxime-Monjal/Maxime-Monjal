@@ -1,3 +1,4 @@
+<div align="center">
 # Hi  🙋🏻‍♂️, I'm Maxime 
 ## I am a Junior front-end Developper from the Wild Code School
 
@@ -21,3 +22,5 @@ Skills: HTML / CSS/Sass / JAVASCRIPT / REACT / VUE / NODE /MYSQL
 #
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxime-Monjal)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
