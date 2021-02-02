@@ -1,4 +1,4 @@
-## Hi, I'm Maxime Monjal 👋,
+## Hi, I'm Maxime  🙋🏻‍♂️,
 #### I am a Junior front-end Developper from the Wild Code School
 
 Skills: HTML / CSS / JAVASCRIPT / REACT / NODE /MYSQL 
