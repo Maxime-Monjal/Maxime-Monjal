@@ -1,5 +1,5 @@
-<h1 algin="center">Hi  🙋🏻‍♂️, I'm Maxime </h1>
-<h2 algin="center"> I am a Junior front-end Developper from the Wild Code School</h2>
+<h1 align="center">Hi  🙋🏻‍♂️, I'm Maxime </h1>
+<h2 align="center"> I am a Junior front-end Developper from the Wild Code School</h2>
 
 - 🌍  I'm from: **Nantes (FRANCE)**
 - 🌱 I’m currently learning: **Javascript, React, Vue, Node** 
@@ -8,7 +8,7 @@
 
 Skills: Html / Css/Sass / Javascript / React / Vue / Node /Mysql
 
-<h2 algin="center"> Social Network</h2>
+<h2 align="center"> Social Network</h2>
 
 👤 **Maxime Monjal**
 
