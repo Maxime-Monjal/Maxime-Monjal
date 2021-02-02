@@ -1,10 +1,10 @@
 # Hi  🙋🏻‍♂️, I'm Maxime 
 ## I am a Junior front-end Developper from the Wild Code School
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / NODE /MYSQL 
+Skills: HTML / CSS/Sass / JAVASCRIPT / REACT / VUE / NODE /MYSQL 
 
 - 🌍  I'm from: **Nantes (FRANCE)**
-- 🌱 I’m currently learning: **Javascript, React, Node** 
+- 🌱 I’m currently learning: **Javascript, React, Vue, Node** 
 - 📫 How to reach me: maxime.monjal@gmail.com 
 - ⚡ Fun fact: **I pratice Krav Maga** 
 
