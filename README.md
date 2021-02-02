@@ -6,8 +6,6 @@
 - 📫 How to reach me: maxime.monjal@gmail.com 
 - ⚡ Fun fact: **I pratice Krav Maga** 
 
-Skills: Html, Css/Sass, Javascript, React, Vue, Node, Mysql
-
 <h2> Social Network</h2>
 
 👤 **Maxime Monjal**
