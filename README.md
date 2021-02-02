@@ -1,15 +1,14 @@
-<div align="center">
-# Hi  🙋🏻‍♂️, I'm Maxime 
-## I am a Junior front-end Developper from the Wild Code School
-
-Skills: HTML / CSS/Sass / JAVASCRIPT / REACT / VUE / NODE /MYSQL 
+<h1 algin="center">Hi  🙋🏻‍♂️, I'm Maxime </h1>
+<h2 algin="center"> I am a Junior front-end Developper from the Wild Code School</h2>
 
 - 🌍  I'm from: **Nantes (FRANCE)**
 - 🌱 I’m currently learning: **Javascript, React, Vue, Node** 
 - 📫 How to reach me: maxime.monjal@gmail.com 
 - ⚡ Fun fact: **I pratice Krav Maga** 
 
-## Social Network
+Skills: Html / Css/Sass / Javascript / React / Vue / Node /Mysql
+
+<h2 algin="center"> Social Network</h2>
 
 👤 **Maxime Monjal**
 
@@ -18,6 +17,7 @@ Skills: HTML / CSS/Sass / JAVASCRIPT / REACT / VUE / NODE /MYSQL
 * LinkedIn: [@maximemonjal](https://linkedin.com/in/maximemonjal)
 * My Portfolio: [@maximemonjal](https://maxime-monjal.netlify.app/)
 
+<div align="center">
 
 #
 
