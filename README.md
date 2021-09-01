@@ -1,10 +1,10 @@
 <h1 align="center">Hi  🙋🏻‍♂️, I'm Maxime </h1>
-<h2> I am a Junior front-end Developper from the Wild Code School</h2>
+<h2> I am a front-end Developper React / Vue.js</h2>
 
 - 🌍  I'm from: **Nantes (FRANCE)**
 - 🌱 I’m currently learning: **Javascript, React, Vue, Node** 
 - 📫 How to reach me: maxime.monjal@gmail.com 
-- ⚡ Fun fact: **I pratice Krav Maga** 
+- ⚡ Fun fact: **I don't have netflix** 
 
 <h2> Social Network</h2>
 
