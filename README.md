@@ -1,8 +1,8 @@
-<h1 align="center">Hi  🙋🏻‍♂️, I'm Maxime </h1>
+<h1 align="center">Hi, I'm Maxime </h1>
 <h2> I am a front-end Developper React / Vue.js</h2>
 
 - 🌍  I'm from: **Nantes (FRANCE)**
-- 🌱 I’m currently learning: **Javascript, React, Vue, Node** 
+- 🌱 I’m currently learning: **Typescript, React, Vue, Node** 
 - 📫 How to reach me: maxime.monjal@gmail.com 
 - ⚡ Fun fact: **I don't have netflix** 
 
