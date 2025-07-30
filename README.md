@@ -8,8 +8,6 @@
 
 <h2> Social Network</h2>
 
-👤 **Maxime Monjal**
-
 * Github: [@Maxime-Monjal](https://github.com/Maxime-Monjal)
 * LinkedIn: [@maximemonjal](https://linkedin.com/in/maximemonjal)
 * My Portfolio: [@maximemonjal](https://maxime-monjal.netlify.app/)
