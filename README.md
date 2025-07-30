@@ -14,10 +14,4 @@
 * LinkedIn: [@maximemonjal](https://linkedin.com/in/maximemonjal)
 * My Portfolio: [@maximemonjal](https://maxime-monjal.netlify.app/)
 
-<div align="center">
-
-#
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maxime-Monjal)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
